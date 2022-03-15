@@ -1,3 +1,9 @@
+How to start the App
+=======================
+- first you need to npm install
+- and then just do npm start, the app will be running on http://localhost:3000/
+=======================
+
 Products Grid
 ====
 
