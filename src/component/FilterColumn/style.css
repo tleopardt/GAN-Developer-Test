@@ -1,0 +1,30 @@
+@import '../../index.css';
+
+.checkboxes {
+  width: 20%;
+  border-radius: 20px;
+  background-color: var(--secondary-color);
+  height: fit-content;
+}
+.boxes {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+}
+.checkboxes .card-title {
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+.checkboxes .form-input {
+  padding: 10px;
+  cursor: pointer;
+  margin: 5px 0px;
+  background-color: var(--primary-light);
+  border-radius: 10px;
+}
+
+@media (max-width: 1200px) {
+  .checkboxes {
+    width: 100%;
+  }
+}
