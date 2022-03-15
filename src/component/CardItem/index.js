@@ -1,4 +1,4 @@
-import React, { Fragment, useEffect } from 'react'
+import React, { Fragment } from 'react'
 import { DollarFormat } from '../../utils/DollarFormat'
 import DateFormat from '../../utils/DateFormat'
 import './style.css'
