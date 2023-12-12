@@ -24,6 +24,6 @@ module.exports = (req, res, next) => {
             'Location': `https://unsplash.it/320/200?image=${n}`
         });
 
-        res.end();
+        res.end()
     }
 };
