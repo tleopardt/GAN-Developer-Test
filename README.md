@@ -1,13 +1,7 @@
-How to start the App
-=======================
-- first you need to npm install
-- and then just do npm start, the app will be running on http://localhost:3000/
-=======================
-
 Products Grid
 ====
 
-This is an ecommerce site, where you can buy all sorts of ascii faces like `(ノ・∀・)ノ` and `¯_(ツ)_/¯`, in a wide variety of font sizes. The homepage should display a list of products for people to browse.
+Welcome to the ASCII Faces Emporium, your go-to ecommerce site for a delightful array of expressive ASCII faces! Whether you're looking for a (ノ・∀・)ノ to convey excitement or a ¯\_(ツ)_/¯ for that classic shrug, we've got you covered. Explore our collection in a range of font sizes to find the perfect emoticon for any occasion.
 
 Please read the instructions and FAQ below before beginning.
 
