@@ -1,6 +1,5 @@
 Products Grid
 ====
-
 Welcome to the ASCII Faces Emporium, your go-to ecommerce site for a delightful array of expressive ASCII faces! Whether you're looking for a (ノ・∀・)ノ to convey excitement or a ¯\_(ツ)_/¯ for that classic shrug, we've got you covered. Explore our collection in a range of font sizes to find the perfect emoticon for any occasion.
 
 Please read the instructions and FAQ below before beginning.
